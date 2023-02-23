@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft Moddé",
     "main": "src/app.js",
     "author": "Raiden",
-    "url": "http://minecubeserver.000webhostapp.com",
+    "url": "http://minecubeserver.000webhostapp.com/Launcher",
     "engines": {
         "node": "^18.x.x"
     },
